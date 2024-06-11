@@ -60,7 +60,7 @@ http://localhost:7080/api/v1/process-db
 ##### Clonar del repositorio
 
 ```
-git clone https://github.com/andresmen30/challenge-talycap.git
+git clone https://github.com/veroyuu6/linktic-batch.git
 ```
 
 ##### Compilar
