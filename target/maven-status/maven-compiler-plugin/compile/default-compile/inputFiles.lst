@@ -1,0 +1,10 @@
+/Users/andresmendez/yuyu/linktic-batch/src/main/java/com/linktic/batch/LinkticBatchApplication.java
+/Users/andresmendez/yuyu/linktic-batch/src/main/java/com/linktic/batch/listener/JobDbListener.java
+/Users/andresmendez/yuyu/linktic-batch/src/main/java/com/linktic/batch/processor/PersonCsvProcessor.java
+/Users/andresmendez/yuyu/linktic-batch/src/main/java/com/linktic/batch/model/PersonMigrate.java
+/Users/andresmendez/yuyu/linktic-batch/src/main/java/com/linktic/batch/listener/JobCsvListener.java
+/Users/andresmendez/yuyu/linktic-batch/src/main/java/com/linktic/batch/util/ConstantsUtil.java
+/Users/andresmendez/yuyu/linktic-batch/src/main/java/com/linktic/batch/model/Person.java
+/Users/andresmendez/yuyu/linktic-batch/src/main/java/com/linktic/batch/controller/PersonBatchController.java
+/Users/andresmendez/yuyu/linktic-batch/src/main/java/com/linktic/batch/config/BatchConfig.java
+/Users/andresmendez/yuyu/linktic-batch/src/main/java/com/linktic/batch/processor/PersonDbProcessor.java

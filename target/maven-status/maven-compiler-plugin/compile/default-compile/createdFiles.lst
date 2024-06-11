@@ -1,0 +1,11 @@
+com/linktic/batch/processor/PersonCsvProcessor.class
+com/linktic/batch/model/PersonMigrate.class
+com/linktic/batch/listener/JobCsvListener.class
+com/linktic/batch/processor/PersonDbProcessor.class
+com/linktic/batch/config/BatchConfig.class
+com/linktic/batch/util/ConstantsUtil.class
+com/linktic/batch/listener/JobDbListener.class
+com/linktic/batch/LinkticBatchApplication.class
+com/linktic/batch/model/Person.class
+com/linktic/batch/controller/PersonBatchController.class
+com/linktic/batch/config/BatchConfig$1.class
